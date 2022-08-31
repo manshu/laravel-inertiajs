@@ -6,7 +6,7 @@ function MetaHead({ title, name, description }) {
     return (
         <InertiaHead>
             <title>{title}</title>
-            <meta name={name} content={desc} />
+            <meta name={name} content={description} />
         </InertiaHead>
     )
 }
