@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import Layout from '../../Layout'
+import Layout from '../../Layout/Index'
 import MetaHead from '../../Components/MetaHead'
 
 function Home() {
